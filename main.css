@@ -1,0 +1,36 @@
+body{
+    background-color: #eee;
+}
+
+.bg{
+    background-color : #343a40;
+}
+
+ul  a{
+    color: white;
+}
+ul a:hover{
+    color: rgb(145, 145, 145);
+}
+.bgJumbotron{
+    background-image: url("jumbImg.jpg");
+    background-size: cover;
+
+}
+
+
+.textJumbotron{
+    color: white;
+    font-family: 'Muli', sans-serif;
+}
+.jumbotron{
+    height: 450px;
+}
+h2{
+    font-family: 'Muli', sans-serif;
+}
+
+.card{
+    width : 18rem;
+    height: 490px;
+}
