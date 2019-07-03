@@ -29,8 +29,11 @@ ul a:hover{
 h2{
     font-family: 'Muli', sans-serif;
 }
+.border{
+    padding: 20px;
+ background-color:  #007bff;
+ border-radius: 5px;
 
-.card{
-    width : 18rem;
-    height: 490px;
 }
+
+
